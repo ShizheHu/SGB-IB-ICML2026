@@ -10,5 +10,5 @@ title={Structure-aware Granular-Ball based Information Bottleneck for Multi-moda
 author={Zhengzheng Lou and Yuhan Zhan and Mingyang Lv and Yingxuan Li and Yuyang Du and Shizhe Hu},\
 booktitle={Forty-third International Conference on Machine Learning},\
 year={2026},\
-url={https://openreview.net/forum?id=ZtP14V3zNs}\
+url={https://openreview.net/forum?id=ZtP14V3zNs},\
 }
